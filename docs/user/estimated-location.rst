@@ -66,3 +66,9 @@ includes indicators for the estimated status.
   <ip_address>)**.
 - A warning on top of the page.
 - **Is Estimated** field.
+
+In REST API, the field will be visible in the :ref:`Device Location
+<device_location_estimated>`, :ref:`Location list
+<location_list_estimated>`, :ref:`Location Detail
+<location_detail_estimated>` and :ref:`Location Detail (GeoJson)
+<location_geojson_estimated>` if the feature is **enabled**.
